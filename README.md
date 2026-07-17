@@ -26,3 +26,16 @@ La lista de empleados se mantiene en memoria con una lista de estado de Compose,
 Para ver los mensajes del ciclo de vida, abrir Logcat en Android Studio y filtrar por el tag `MainActivity`. Al abrir la app se registra `onStart`, al mandarla a segundo plano `onStop` y al cerrarla `onDestroy`.
 
 Para probar el tema oscuro basta con activar el modo oscuro del sistema en el dispositivo o emulador.
+
+
+## Capturas:
+
+<img width="1280" height="720" alt="photo_2026-07-17_20-31-38" src="https://github.com/user-attachments/assets/ee3dcb99-58ab-44c5-b723-231c956930f0" />
+
+<img width="1280" height="720" alt="photo_2026-07-17_20-32-00" src="https://github.com/user-attachments/assets/ece9f830-912c-4f4a-9e4d-9d56a5c85058" />
+
+<img width="1280" height="720" alt="photo_2026-07-17_20-32-02" src="https://github.com/user-attachments/assets/1718f1cf-a2a1-48ff-abdc-858143d11c43" />
+
+<img width="1280" height="720" alt="photo_2026-07-17_20-32-03" src="https://github.com/user-attachments/assets/dc59872b-5a41-4209-9ac0-37436a223393" />
+
+
